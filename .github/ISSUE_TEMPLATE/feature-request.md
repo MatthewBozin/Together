@@ -6,17 +6,15 @@ labels: "enhancement"
 assignees: ""
 ---
 
-## Please provide a summary of the feature
+## Please provide a summary of the feature:
 
-## Are there any potential issues you foresee with this feature
+## Are there any potential future problems you foresee with this feature?
 
-## Is this feature related to any current or past issues? Please provide the
+## Is this feature related to any current or past issues? If so, please provide the issue number(s):
 
-## Additional context
+## Add any other context or screenshots about the feature below:
 
-Add any other context or screenshots about the feature request here.
-
-## Which Branch should this fix be Pulled into?
+## Which branch should this feature be pulled into?
 
 PR into [branchName]
 
